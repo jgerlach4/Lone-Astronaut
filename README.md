@@ -1,5 +1,6 @@
 # Lone-Astronaut
-You are an astronaut whose ship has crash landed on an alien planet. Navigate your way through the maze, dodging the sinister robots guarding the battery that will get you home!\
+You are an astronaut whose ship has crash landed on an alien planet. Navigate your way through the maze, dodging the sinister robots guarding the battery that will get you home!
+
 Use WASD to move\
 Use 'E' to Interact with objects
 
